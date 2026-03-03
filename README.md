@@ -57,4 +57,4 @@ I believe in learning by doing. I regularly implement lab assignments from scrat
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: https://www.linkedin.com/in/rrsiam/

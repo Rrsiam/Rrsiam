@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering Student  
 🏫 United International University  
-📊 CGPA: 3.79  
+📊 CGPA: 3.81  
 
 ---
 
@@ -26,6 +26,8 @@ I'm particularly interested in building AI systems that don't just make predicti
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### 👨‍💻 Programming
 
@@ -59,12 +61,15 @@ I'm particularly interested in building AI systems that don't just make predicti
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge\&logo=overleaf\&logoColor=white)
 
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🩺 XRL-Based Clinical Decision Support System
 
-A research-oriented project combining **Reinforcement Learning and Explainable AI** to analyze longitudinal health data and provide interpretable insights for Type-2 Diabetes risk assessment.
+A research-oriented project combining **Reinforcement Learning and Explainable AI** to analyze cumulative health data and predict Type-2 Diabetes risk.
 
 **Focus:**
 `Reinforcement Learning` • `Explainable AI` • `Healthcare AI` • `Trajectory Analysis` • `Clinical Decision Support System`
@@ -124,22 +129,15 @@ My current research interests are focused on:
 
 ## 🎯 My Goal
 
-To become an **AI/ML Engineer and Researcher** capable of developing intelligent systems that solve meaningful real-world problems.
-
-I believe the best way to learn AI is to **build, experiment, research, fail, improve, and build again.**
+To capable of developing intelligent systems that solve meaningful real-world problems.
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rrsiam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Robayet%20Rowshan%20Siam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rrsiam">
-    <img src="https://img.shields.io/badge/GitHub-Rrsiam-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+GitHub: https://github.com/Rrsiam
+
+LinkedIn: https://www.linkedin.com/in/rrsiam/
 
 ---
 

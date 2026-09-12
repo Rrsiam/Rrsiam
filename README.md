@@ -10,19 +10,6 @@
 
 I'm currently exploring the intersection of **Machine Learning, Reinforcement Learning, and Explainable AI**.
 
-My main interests include:
-
-* 🤖 Machine Learning
-* 🎯 Reinforcement Learning
-* 🔍 Explainable AI (XAI)
-* 📊 Data Analysis & Predictive Modeling
-* 🧬 AI for Healthcare
-* 🧠 Intelligent Decision Support Systems
-* 📈 Longitudinal / Trajectory-Based Analysis
-* 💡 Research-oriented AI applications
-
-I'm particularly interested in building AI systems that don't just make predictions, but can also **explain their decisions and learn from changing situations over time**.
-
 ---
 
 ## 💻 Tech Stack

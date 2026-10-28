@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering Student  
 🏫 United International University  
-📊 CGPA: 3.81  
+📊 CGPA: 3.82  
 
 ---
 
